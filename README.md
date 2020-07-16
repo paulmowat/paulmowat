@@ -8,5 +8,3 @@ My experience also extends to web development using HTML, CSS, Javascript, PHP a
 - 🌱 I’m continually learning around AWS, SaaS Software Architecture and continually improving my Javascript/Node.js knowledge...
 - 📫 How to reach me: [Personal Site](https://www.paulmowat.co.uk)
 
-## Github stats
-![Pauls's github stats](https://github-readme-stats.vercel.app/api?username=paulmowat)
