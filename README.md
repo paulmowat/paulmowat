@@ -4,7 +4,7 @@ I am a hardworking, organised and motivated software architect with 15+ years ex
 
 My experience also extends to web development using HTML, CSS, Javascript, PHP and hybrid mobile applications.
 
-- 🔭 I’m currently working as a ERP Architect over at [Advanced](https://www.oneadvanced.com/) building enterprise SaaS solutions
+- 🔭 I’m currently working as a Principal DevOps Architect over at [Advanced](https://www.oneadvanced.com/) building enterprise SaaS solutions
 - 🌱 I’m continually learning around AWS, SaaS Software Architecture and continually improving my Javascript/Node.js knowledge
 - 📫 How to reach me: [Personal Site](https://www.paulmowat.co.uk)
 
