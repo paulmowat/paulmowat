@@ -18,9 +18,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-YAML         2 hrs 40 mins   ████████████████████████░   96.57 % 
-JavaScript   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
