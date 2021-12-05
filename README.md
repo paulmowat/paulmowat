@@ -18,10 +18,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-YAML       3 hrs 8 mins    ██████████████████████▒░░   88.94 % 
-JSON       20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Other      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
