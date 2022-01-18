@@ -3,16 +3,20 @@
 - 🏠 I'm based near Aberdeen in Scotland.
 - 💼 I’m currently working as a Principal DevOps Architect over at [Advanced](https://www.oneadvanced.com/) designing & building enterprise SaaS solutions.
 - 📖 I’m continually learning and looking to improve me knowledge. Currently this is focused around AWS, SaaS Software Architecture and improving my Javascript/Node.js knowledge.
-- 📔 I also [tweet](https://twitter.com/paul_mowat), [blog](https://www.paulmowat.co.uk/blog) and create [YouTube](https://www.youtube.com/channel/UC1V9KmnmVzpwrnqENngdCAA) videos on what I've learned.
+- 📔 I also [tweet](https://twitter.com/paul_mowat) and [blog](https://www.paulmowat.co.uk/blog) on what I've learned.
 
 - 📫 You can reach me via [Twitter](https://twitter.com/paul_mowat) or through my [Personal Site](https://www.paulmowat.co.uk).
+
 
 ## Find me on the web 🌍
 
 - [Website](https://www.paulmowat.co.uk)
 - [Twitter](https://twitter.com/paul_mowat)
-- [YouTube](https://www.youtube.com/channel/UC1V9KmnmVzpwrnqENngdCAA)
 - [LinkedIn](https://www.linkedin.com/in/paulmowat)
+
+## Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=paulmowat)](https://github.com/paulmowat/github-profile-trophy)
 
 ## Weekly Development Stats 💻
 
