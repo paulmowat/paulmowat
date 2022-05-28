@@ -7,12 +7,15 @@
 
 - 📫 You can reach me via [Twitter](https://twitter.com/paul_mowat) or through my [Personal Site](https://www.paulmowat.co.uk).
 
-
 ## Find me on the web 🌍
 
 - [Website](https://www.paulmowat.co.uk)
 - [Twitter](https://twitter.com/paul_mowat)
 - [LinkedIn](https://www.linkedin.com/in/paulmowat)
+
+## Certifications
+
+[![AWS Cloud Practitioner](https://www.paulmowat.co.uk/static/images/certifications/aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/20782845-2a4c-4b9d-9f9c-7cd71100c1cb/public_url)
 
 ## Trophies
 
