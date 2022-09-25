@@ -26,8 +26,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   3 hrs 10 mins   ██████████████████████▒░░   88.88 %
-XML        23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
+Markdown   2 hrs 6 mins    █████████████████████░░░░   83.62 %
+XML        24 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.38 %
 ```
 
 <!--END_SECTION:waka-->
