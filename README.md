@@ -2,7 +2,7 @@
 
 - 🏠 I'm based near Aberdeen in Scotland.
 - 💼 I’m currently working as a Principal DevOps Architect over at [Advanced](https://www.oneadvanced.com/) designing & building enterprise SaaS solutions.
-- 📖 I’m continually learning and looking to improve me knowledge. Currently this is focused around AWS, SaaS Software Architecture and improving my Javascript/Node.js knowledge.
+- 📖 I’m continually learning and looking to improve my knowledge. Currently this is focused around the AWS, Harness Next Generation Platform and Kubernetes.
 - 📔 I also [tweet](https://twitter.com/paul_mowat) and [blog](https://www.paulmowat.co.uk/blog) on what I've learned.
 
 - 📫 You can reach me via [Twitter](https://twitter.com/paul_mowat) or through my [Personal Site](https://www.paulmowat.co.uk).
