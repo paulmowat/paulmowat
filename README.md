@@ -26,11 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         26 mins         ██████████░░░░░░░░░░░░░░░   39.34 %
-JSON         23 mins         ████████▓░░░░░░░░░░░░░░░░   34.25 %
-JavaScript   16 mins         ██████░░░░░░░░░░░░░░░░░░░   23.84 %
-Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
