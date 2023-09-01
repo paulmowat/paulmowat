@@ -16,6 +16,8 @@
 ## Certifications
 
 [![AWS Cloud Practitioner](https://www.paulmowat.co.uk/static/images/certifications/aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/20782845-2a4c-4b9d-9f9c-7cd71100c1cb/public_url)
+[![Harness Certified Continuous Integration Developer](https://www.paulmowat.co.uk/static/images/certifications/harness_ci_developer.png)](https://www.credly.com/badges/1b27cbf4-a7b9-452a-af76-83d606ac2958/public_url)
+[![Harness Certified Continuous Delivery & GitOps Developer](https://www.paulmowat.co.uk/static/images/certifications/harness_cd_gitops_developer.png)](https://www.credly.com/badges/0fc87d2b-b6bd-4ea2-b618-9452e42b1de2/public_url)
 
 ## Trophies
 
