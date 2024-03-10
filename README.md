@@ -28,9 +28,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform    51 mins         ███████████████████████▓░   94.41 %
-Bash         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
-PowerShell   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
