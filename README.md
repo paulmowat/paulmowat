@@ -20,6 +20,7 @@
 [![Harness Certified Continuous Delivery & GitOps Developer](https://www.paulmowat.co.uk/static/images/certifications/harness_cd_gitops_developer.png)](https://www.credly.com/badges/0fc87d2b-b6bd-4ea2-b618-9452e42b1de2/public_url)
 [![Harness Certified Feature Flag Developer](https://www.paulmowat.co.uk/static/images/certifications/harness_feature_flag_developer.png)](https://www.credly.com/badges/8a1adf80-852b-48c0-b7d2-9566fcee6dc9/public_url)
 [![Harness Certified Security Testing Orchestration Developer](https://www.paulmowat.co.uk/static/images/certifications/harness_sto_developer.png)](https://www.credly.com/badges/ff9b9814-4bec-49e1-9573-87b32abb800e/public_url)
+[![Harness Certified Internal Developer Portal Developer](https://www.paulmowat.co.uk/static/images/certifications/harness_idp.png)](https://www.credly.com/badges/3916860b-909c-4e15-a303-fa894bd4f67c/public_url)
 
 ## Trophies
 
