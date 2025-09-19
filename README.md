@@ -31,11 +31,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   13 hrs 10 mins  ████████░░░░░░░░░░░░░░░░░   32.17 %
-Vue.js       7 hrs 12 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.59 %
-Terraform    3 hrs 49 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
-YAML         3 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
-SQL          2 hrs 43 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
+JavaScript   12 hrs 56 mins  ████████▒░░░░░░░░░░░░░░░░   33.32 %
+Vue.js       7 hrs 12 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.57 %
+SQL          5 hrs 31 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 %
+Terraform    3 hrs 35 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
+Markdown     2 hrs 5 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
 ```
 
 <!--END_SECTION:waka-->
